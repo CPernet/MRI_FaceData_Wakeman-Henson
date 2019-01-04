@@ -73,7 +73,7 @@ if ~exist(outdir,'dir')
             gunzip(in, [outdir filesep BIDS.subjects(s).name filesep 'run' num2str(frun)]);
         end
     end
-else % as above but no point having parallel overhaed to create a list
+else % as above but no point having parallel overhead to create a list
     for s=1:size(BIDS.subjects,2)
         in = [BIDS.dir filesep BIDS.subjects(s).name filesep 'anat' filesep BIDS.subjects(s).anat.filename];
         subjects{s}.anat = [BIDS.dir filesep outdir filesep BIDS.subjects(s).name filesep 'anat' filesep BIDS.subjects(s).anat.filename(1:end-3)];
