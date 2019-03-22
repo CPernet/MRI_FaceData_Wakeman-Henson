@@ -613,6 +613,7 @@ axis square; axis([-1 1 -1 1]); grid on; box on; hold on; plot([-1 1],[-1 1],'k'
 title('Faces only'); xlabel('famous'); ylabel('Unfamiliar')
 
 % plot con2 (faces>scrambled)
+% from LI.csv li_all_brain = LI(:,6:8)'; li_fusiform = LI(:,2:4)';
 [mean_leateralization,ci_lat]=rst_data_plot([li_all_brain' li_fusiform'],'estimator','mean');
 title('Lateralization full brain and fusiform')
 
