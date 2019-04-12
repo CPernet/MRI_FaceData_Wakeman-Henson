@@ -1,6 +1,6 @@
 ,what was the message in brain map presented?,,,,additional info,,,
 ,Anatomical location of an effect, Showing Hemispheric asymmetry of an effect,Showing the involvement of a set of areas in a task or an effect,Showing the differential involvement of a network in a task or an effect,"for precise Anatomical locations and or asymmetry, were raw stat maps shown?",were results plotted?,were only significant results plotted?,comments
-https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13349,NA,NA,slices,NA,0,0.5,1,"exemple of inconsistance of plotting responses, sometimnes yes, sometines no"
+https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13349,NA,NA,slices,NA,0,0.5,1,example of inconsistency in plotting responses
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13416,slices,NA,render,NA,0,1,1,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13606,slices,NA,render + slices,NA,0,0,NA,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13586,slices,NA,NA,NA,NA,1,1,
@@ -12,14 +12,14 @@ https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13112,0,0,0,render,0,0.5,0,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13120,0,0,slices,0,0,0,NA,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13125,0,0,render,1,0,0,NA,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13130,slices,0,0,0,0,0.5,1,
-https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13140,0,0,0,render,0,0,NA,good courter exemple how render can be useful for precise anatomical location
-https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13164,render,0,1,0,0,0,NA,sometimes render and slice good not + typical case where results not plotted because 'not important'
+https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13140,0,0,0,render,0,0,NA,good conter example how render can be useful for precise anatomical location
+https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13164,render,0,1,0,0,0,NA,sometimes render and slice // typical case where results not plotted because 'not important'
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13183,render,0,slices,0,0,0,NA,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13156,0,0,slices,0,0,0,NA,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13197,slices,0,slices,0,0,1,0,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13218,slices,0,slices,0,0,0,NA,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13177,0,0,slices and render,0,0,0,NA,
-https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13182,slices,1,slices,0,0,0,NA,actually not tested asymetry
+https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13182,slices,1,slices,0,0,0,NA,actually not tested asymmetry
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13272,NA,NA,slices,NA,NA,0,NA,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13298,slices,NA,slices,NA,NA,1,1,
 https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.13327,render,NA,render,NA,NA,1,1,
